@@ -1,3 +1,11 @@
-자동화를 처음 연습하며 작성해본 스크립트입니다.
+This is the script I wrote while studying automation for the first time!
 
-Playwright로 Sauce Demo 페이지 로그인 > 장바구니 > 결제 시뮬레이션을 돌려봤습니다 (_ _)
+1. Access the site using Playwright.
+
+2. Log in.
+
+3. Add the bag to your shopping cart.
+
+4. Enter your shipping information and complete the payment.
+
+Thank you.
